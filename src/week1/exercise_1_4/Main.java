@@ -1,4 +1,4 @@
-package exercise_1_4;
+package week1.exercise_1_4;
 
 /**
  * Created by Sergey on 18.04.2017.

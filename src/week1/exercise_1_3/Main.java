@@ -1,8 +1,6 @@
-package exercise_1_3;
+package week1.exercise_1_3;
 
 import java.util.ArrayDeque;
-import java.util.LinkedList;
-import java.util.Queue;
 import java.util.Scanner;
 
 /**

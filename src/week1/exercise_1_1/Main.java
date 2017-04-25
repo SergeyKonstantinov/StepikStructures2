@@ -1,4 +1,4 @@
-package exercise_1_1;
+package week1.exercise_1_1;
 
 import java.util.Stack;
 import java.util.Scanner;

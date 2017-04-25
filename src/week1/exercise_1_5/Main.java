@@ -1,4 +1,4 @@
-package exercise_1_5;
+package week1.exercise_1_5;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
